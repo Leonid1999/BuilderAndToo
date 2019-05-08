@@ -1,0 +1,7 @@
+C:\Users\lenya\source\repos\ApiManager\ApiManager\bin\Debug\ApiManager.exe.config
+C:\Users\lenya\source\repos\ApiManager\ApiManager\bin\Debug\ApiManager.exe
+C:\Users\lenya\source\repos\ApiManager\ApiManager\bin\Debug\ApiManager.pdb
+C:\Users\lenya\source\repos\ApiManager\ApiManager\obj\Debug\ApiManager.csprojAssemblyReference.cache
+C:\Users\lenya\source\repos\ApiManager\ApiManager\obj\Debug\ApiManager.csproj.CoreCompileInputs.cache
+C:\Users\lenya\source\repos\ApiManager\ApiManager\obj\Debug\ApiManager.exe
+C:\Users\lenya\source\repos\ApiManager\ApiManager\obj\Debug\ApiManager.pdb
